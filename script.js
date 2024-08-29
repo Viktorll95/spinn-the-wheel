@@ -327,7 +327,7 @@ Seth
 Idun R	
 Alice	
 Julia	
-Isabella	
+Isabella DO
 Ebbot	
 Charlie	
 Albert	
@@ -345,7 +345,7 @@ Niels
 Bo	
 Nathan	
 Lilly	
-Isabella	
+Isabella OT	
 Theo
 `;
 
